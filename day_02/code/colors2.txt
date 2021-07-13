@@ -1,0 +1,15 @@
+My colors
+------------------
+
+red
+green
+blue
+yellow
+golden
+maroon
+cyan
+magenta
+
+black
+grey
+white
